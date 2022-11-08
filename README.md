@@ -1,6 +1,11 @@
 # Update submodule 
 
-After clone this repo, run `git submodule update --recursive` to update submodules.
+After clone this repo, run the following to update submodules:
+
+```bash
+git submodule init
+git submodule update --recursive
+```
 
 # Environment Setup
 
