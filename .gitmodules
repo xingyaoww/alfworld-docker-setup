@@ -1,0 +1,3 @@
+[submodule "third_party/alfworld"]
+	path = third_party/alfworld
+	url = https://github.com/alfworld/alfworld.git
